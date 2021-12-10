@@ -15,12 +15,17 @@ header{
 }
 
 .spootlight{
-    background-color: whitesmoke;
+    background-color: turquoise;
     height: 400px;
 }
 
 .images{
-    background-color:turquoise;
+    background-color: whitesmoke;
+    height: 400px;
+}
+
+.about{
+    background-color: turquoise;
     height: 400px;
 }
 
