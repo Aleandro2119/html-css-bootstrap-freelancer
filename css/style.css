@@ -18,3 +18,12 @@ header{
     background-color: whitesmoke;
     height: 400px;
 }
+
+.images{
+    background-color:turquoise;
+    height: 400px;
+}
+
+.col{
+    border: 1px solid green;
+}
