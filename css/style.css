@@ -29,6 +29,16 @@ header{
     height: 400px;
 }
 
+.footer-top{
+    background-color: black;
+    height: 400px;
+}
+
+.footer-bottom{
+    background-color: darkgray;
+    height: 100px;
+}
+
 .col{
     border: 1px solid green;
 }
