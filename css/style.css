@@ -7,14 +7,51 @@
     border: 1px dashed blue;
 }*/
 
+/*Utils*/
 .bg-blue{
     background-color: #2C3E50;
 }
 
-.spootlight{
-    background-color: turquoise;
-    height: 400px;
+.bg-turquoise{
+    background-color: #1ABC9C;
 }
+
+.fa-star{
+    font-size: 24px;
+}
+
+.star-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.star-line::after{
+    background-color: white;
+    height: 2px;
+    width: 100px;
+    display: inline-block;
+    content: "";
+    margin: 0 10px;
+}
+
+.star-line::before{
+    background-color: white;
+    height: 2px;
+    width: 100px;
+    display: inline-block;
+    content: "";
+    margin: 0 10px;
+}
+
+
+/*Spootlight*/
+.img-avatar{
+    max-width: 250px;
+    height: auto;
+}
+
+
 
 .images{
     background-color: whitesmoke;
