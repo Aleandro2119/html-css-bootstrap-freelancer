@@ -1,17 +1,14 @@
 
-.container{
-    border: 1px dashed red;
+/*.container{
+   border: 1px dashed red;
 }
 
 .container-fluid{
     border: 1px dashed blue;
-}
+}*/
 
-
-
-header{
-    background-color: darkgray;
-    height: 80px;
+.bg-blue{
+    background-color: #2C3E50;
 }
 
 .spootlight{
